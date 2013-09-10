@@ -17,7 +17,7 @@ First setup prism js and css plus clojure language definition.
 </html>
 ```
 
-You can then define your code snippet with the appropriate `language-clojure` 
+You can then define your code snippet with the appropriate `language-clojure` class:
 
 ```html
 <pre><code class="language-clojure">
