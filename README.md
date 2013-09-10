@@ -7,7 +7,7 @@ First setup prism js and css plus clojure language definition.
 ```html
 <html>
   <head>
-    <link href="https://rawgithub.com/LeaVerou/prism/gh-pages/prism.css" rel="stylesheet" />
+    <link href="prism.css" rel="stylesheet" />
   </head>
   <body>
     ...
